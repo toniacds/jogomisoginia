@@ -1,5 +1,7 @@
-.tab2{
-    position:fixed;
-    right: 20px;
-
+div {
+    display: flex;
+}
+table {
+    border: 1px solid #000;
+    float: left;
 }
